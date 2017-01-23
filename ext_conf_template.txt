@@ -1,0 +1,14 @@
+# cat=basic/enable/010; type=string; label=Client Token: Looks like: 51a0000e-1d50-7285-5976-1346a46794d0 servers.
+token = 
+
+# cat=basic/enable/020; type=string; label=Account: Looks like: '0A0A'
+account = 
+
+# cat=basic/enable/030; type=string; label=Media Path: Looks like: 'http://wpc.0A0A.edgecastcdn.net/000A0A/example.com/*'
+mediaPath = 
+
+# cat=basic/enable/040; type=options[HTTP Large=3,HTTP Small=8]; label=Media Type: 3 is HTTP Large, 8 is HTTP Small
+mediaType = 
+
+# cat=basic/enable/080; type=boolean; label=Debug mode: Enable debug mode to log additional information into typo3temp/logs/typo3.log.
+debug = 0
